@@ -1,0 +1,11 @@
+{
+  "name": "ndpx",
+  "version": "0.0.1",
+  "description": "proxy dev server for elm reactor and phoenix elixir",
+  "main": "server.js",
+  "author": "abinr",
+  "license": "ISC",
+  "devDependencies": {
+    "http-proxy": "^1.13.3"
+  }
+}
